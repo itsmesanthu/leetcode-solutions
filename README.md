@@ -21,6 +21,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,8 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 <!---LeetCode Topics End-->
