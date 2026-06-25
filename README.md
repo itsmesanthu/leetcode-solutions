@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0033-search-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
