@@ -62,6 +62,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0011-container-with-most-water](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
