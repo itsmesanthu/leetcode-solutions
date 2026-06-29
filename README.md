@@ -68,6 +68,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 ## String
 | Problem Name | Difficulty |
