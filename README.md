@@ -17,6 +17,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -42,6 +43,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
@@ -61,6 +63,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Database
