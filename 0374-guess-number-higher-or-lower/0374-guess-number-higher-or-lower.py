@@ -13,8 +13,8 @@ class Solution:
             re=guess(m)
             if re==0:
                 return m
-            elif re==1:
-                i=m+1
-            else:
+            elif re<0:
                 j=m-1
+            else:
+                i=m+1
          
