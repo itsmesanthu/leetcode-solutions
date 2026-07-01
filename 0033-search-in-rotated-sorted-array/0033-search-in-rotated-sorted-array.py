@@ -3,7 +3,7 @@ class Solution:
             s, e = 0, len(nums) - 1
 
             while s <= e:
-                m = (s + e) // 2
+                m = s+(e-s)// 2
                 if target == nums[m]:
                     return m
                 if nums[s] <= nums[m]:
