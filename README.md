@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -39,6 +40,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
