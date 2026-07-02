@@ -93,6 +93,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0184-department-highest-salary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0577-employee-bonus](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
