@@ -20,6 +20,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0035-search-insert-position](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -42,6 +43,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0033-search-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
