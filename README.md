@@ -30,6 +30,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0374-guess-number-higher-or-lower](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
