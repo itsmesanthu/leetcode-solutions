@@ -47,6 +47,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Binary Search
@@ -129,6 +130,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Greedy
@@ -146,6 +148,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +167,8 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
