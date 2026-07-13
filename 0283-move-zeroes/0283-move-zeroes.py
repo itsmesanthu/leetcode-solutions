@@ -4,9 +4,9 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n=len(nums)
-        inn=0
-        for i in range(n):
-            if nums[i]!=0:
-                nums[i],nums[inn]=nums[inn],nums[i]
-                inn+=1
+        i=-1
+        for j in range(0,n):
+            if nums[j]!=0:
+                i+=1
+                nums[i],nums[j]=nums[j],nums[i]
         return nums
