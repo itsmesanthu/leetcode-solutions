@@ -134,6 +134,7 @@ My LeetCode solutions and DSA practice in Python.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -185,6 +186,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
