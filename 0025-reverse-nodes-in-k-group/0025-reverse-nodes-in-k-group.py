@@ -9,7 +9,7 @@ class Solution:
             return None
         current=head
         count=0
-        while  current and count<k:
+        while current and count<k:
             current=current.next
             count+=1
         if count<k:
@@ -23,3 +23,4 @@ class Solution:
             current=nxt
         head.next=self.reverseKGroup(current,k)
         return prev
+
