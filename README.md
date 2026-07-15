@@ -193,10 +193,12 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 ## Breadth-First Search
@@ -207,6 +209,11 @@ My LeetCode solutions and DSA practice in Python.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
