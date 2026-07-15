@@ -10,6 +10,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0231-power-of-two](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
@@ -99,6 +100,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0025-reverse-nodes-in-k-group](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0231-power-of-two](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
