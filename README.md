@@ -11,6 +11,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0263-ugly-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -76,6 +77,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0231-power-of-two](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
