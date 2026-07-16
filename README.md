@@ -37,6 +37,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -250,4 +251,8 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
