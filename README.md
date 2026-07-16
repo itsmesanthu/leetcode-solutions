@@ -13,6 +13,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0326-power-of-three](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,4 +239,8 @@ My LeetCode solutions and DSA practice in Python.
 | [0110-balanced-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
