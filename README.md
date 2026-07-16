@@ -204,6 +204,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0102-binary-tree-level-order-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -224,6 +225,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0102-binary-tree-level-order-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -233,6 +235,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0100-same-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
