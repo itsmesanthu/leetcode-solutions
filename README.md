@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -84,6 +85,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -118,6 +120,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
