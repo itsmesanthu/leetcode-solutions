@@ -37,6 +37,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0238-product-of-array-except-self](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -188,6 +189,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Linked List
@@ -262,4 +264,8 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
