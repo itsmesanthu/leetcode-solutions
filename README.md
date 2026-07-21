@@ -44,6 +44,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
