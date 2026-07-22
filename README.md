@@ -146,6 +146,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0584-find-customer-referee](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1148-article-views-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
