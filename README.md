@@ -148,6 +148,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
