@@ -143,6 +143,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0185-department-top-three-salaries](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
