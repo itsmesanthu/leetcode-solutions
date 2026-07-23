@@ -155,6 +155,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0196-delete-duplicate-emails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1148-article-views-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
