@@ -161,6 +161,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0596-classes-with-at-least-5-students](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1068-product-sales-analysis-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
