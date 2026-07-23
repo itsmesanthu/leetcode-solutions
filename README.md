@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0342-power-of-four](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
