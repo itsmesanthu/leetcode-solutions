@@ -46,6 +46,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0704-binary-search](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -100,6 +101,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
