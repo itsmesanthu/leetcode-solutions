@@ -1,13 +1,13 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        an=0
-        i,j=0,len(height)-1
-        while i<j:
-            h=min(height[i],height[j])
-            w=j-i
-            an=max(an,h*w)
-            if height[i]<height[j]:
-                i+=1
+        a=0
+        l,r=0,len(height)-1
+        while l<r:
+            h=min(height[l],height[r])
+            w=r-l
+            a=max(a,h*w)
+            if height[l]<height[r]:
+                l+=1
             else:
-                j-=1
-        return an
+                r-=1
+        return a
