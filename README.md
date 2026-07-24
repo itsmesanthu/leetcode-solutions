@@ -170,6 +170,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
