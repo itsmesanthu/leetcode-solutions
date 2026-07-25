@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
