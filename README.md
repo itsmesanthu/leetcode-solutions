@@ -183,6 +183,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1683-invalid-tweets](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
