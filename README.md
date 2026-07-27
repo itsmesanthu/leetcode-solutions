@@ -53,6 +53,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -111,6 +112,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -308,4 +310,8 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
