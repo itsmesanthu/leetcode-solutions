@@ -181,6 +181,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0601-human-traffic-of-stadium](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0619-biggest-single-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
