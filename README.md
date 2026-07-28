@@ -180,6 +180,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0596-classes-with-at-least-5-students](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0619-biggest-single-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
