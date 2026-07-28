@@ -117,6 +117,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0387-first-unique-character-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +322,8 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
