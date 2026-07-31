@@ -194,6 +194,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
