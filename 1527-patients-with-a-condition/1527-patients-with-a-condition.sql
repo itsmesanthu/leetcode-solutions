@@ -1,0 +1,1 @@
+select * from patients WHERE conditions REGEXP '(^| )DIAB1';
