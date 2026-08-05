@@ -208,6 +208,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1890-the-latest-login-in-2020](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3436-find-valid-emails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3436-find-valid-emails/) | Easy |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## String
 | Problem Name | Difficulty |
