@@ -210,6 +210,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1757-recyclable-and-low-fat-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1934-confirmation-rate](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3436-find-valid-emails](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
