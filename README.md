@@ -194,6 +194,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1148-article-views-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1179-reformat-department-table/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1280-students-and-examinations](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
