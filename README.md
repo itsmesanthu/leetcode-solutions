@@ -192,6 +192,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1045-customers-who-bought-all-products](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1179-reformat-department-table/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
