@@ -1,7 +1,1 @@
-SELECT MAX(num) AS num
-FROM (
-    SELECT num
-    FROM MyNumbers
-    GROUP BY num
-    HAVING COUNT(*) = 1
-) AS unique_numbers;
+SELECT MAX(NUM) AS NUM FROM (SELECT NUM FROM MyNumbers  GROUP BY NUM HAVING COUNT(*)=1) AS T;
