@@ -186,6 +186,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0596-classes-with-at-least-5-students](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0607-sales-person](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0607-sales-person/) | Easy |
+| [0610-triangle-judgement](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
