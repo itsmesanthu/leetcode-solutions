@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT customer_id
 FROM CUSTOMER
 GROUP BY customer_id 
