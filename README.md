@@ -208,6 +208,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1251-average-selling-price](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
