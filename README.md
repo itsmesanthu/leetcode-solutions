@@ -320,6 +320,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +345,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0112-path-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,4 +374,12 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
