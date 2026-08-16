@@ -44,6 +44,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -70,6 +71,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -358,6 +360,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
