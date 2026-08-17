@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0067-add-binary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
@@ -100,6 +101,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -245,6 +247,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -381,6 +384,7 @@ My LeetCode solutions and DSA practice in Python.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
