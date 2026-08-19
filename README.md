@@ -254,6 +254,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -263,6 +264,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0402-remove-k-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -308,6 +310,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0020-valid-parentheses](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,4 +406,8 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
