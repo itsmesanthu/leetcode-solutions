@@ -301,6 +301,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Queue
