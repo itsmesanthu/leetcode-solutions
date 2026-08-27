@@ -57,6 +57,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -108,6 +109,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -168,6 +170,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0283-move-zeroes](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -287,6 +290,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +402,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+| [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
