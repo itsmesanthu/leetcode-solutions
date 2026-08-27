@@ -329,6 +329,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0112-path-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +354,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0112-path-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +367,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0226-invert-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
