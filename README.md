@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0231-power-of-two](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
@@ -445,4 +446,24 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
