@@ -19,6 +19,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0445-add-two-numbers-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1025-divisor-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -140,6 +141,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -450,6 +452,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +461,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,4 +470,5 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
