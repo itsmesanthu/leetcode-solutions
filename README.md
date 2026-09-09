@@ -68,6 +68,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0912-sort-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -110,6 +111,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +313,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
