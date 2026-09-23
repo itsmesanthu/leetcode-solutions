@@ -194,6 +194,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0349-intersection-of-two-arrays](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +286,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0402-remove-k-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
