@@ -24,6 +24,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1025-divisor-game](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [1154-day-of-the-year](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -290,6 +291,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0402-remove-k-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+| [1154-day-of-the-year](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
