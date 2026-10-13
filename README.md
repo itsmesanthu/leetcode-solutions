@@ -530,4 +530,8 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
