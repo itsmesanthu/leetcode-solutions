@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice in Python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
