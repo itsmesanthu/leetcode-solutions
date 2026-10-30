@@ -73,6 +73,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0888-fair-candy-swap](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0912-sort-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -100,6 +101,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0383-ransom-note](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0888-fair-candy-swap](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0704-binary-search](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0888-fair-candy-swap](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Bit Manipulation
@@ -152,6 +155,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0349-intersection-of-two-arrays](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0888-fair-candy-swap](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0912-sort-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
