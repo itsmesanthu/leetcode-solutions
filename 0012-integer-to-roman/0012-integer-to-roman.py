@@ -15,11 +15,11 @@ class Solution:
             4:"IV",
             1:"I"
         }
-        roman=""
+        r=""
         for key,val in dict.items():
             while key<=num:
-                roman+=val
+                r+=val
                 num=num-key
             if num<=0:
                 break
-        return roman
+        return r
