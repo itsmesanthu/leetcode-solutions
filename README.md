@@ -78,6 +78,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -127,6 +128,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0888-fair-candy-swap](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0888-fair-candy-swap](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0912-sort-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -210,6 +213,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0349-intersection-of-two-arrays](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Database
 | Problem Name | Difficulty |
