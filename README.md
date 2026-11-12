@@ -85,6 +85,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Hash Table
