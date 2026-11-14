@@ -86,6 +86,7 @@ My LeetCode solutions and DSA practice in Python.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsmesanthu/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Hash Table
@@ -354,6 +355,7 @@ My LeetCode solutions and DSA practice in Python.
 | [0303-range-sum-query-immutable](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/itsmesanthu/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +444,7 @@ My LeetCode solutions and DSA practice in Python.
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/itsmesanthu/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/itsmesanthu/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
